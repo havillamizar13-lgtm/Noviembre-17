@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U https://iptv-epg.org/files/epg-zwxaqwcftq.xml
 #EXTINF:-1 tvg-id="TVEInternacional.cr" tvg-name="TVE Internacional" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Varios",TVE Internacional America
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 tvg-id="DW.cr" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Varios",DW Español
