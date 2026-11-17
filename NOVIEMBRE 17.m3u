@@ -5,7 +5,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.cr" tvg-name="Caracol Internacional" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="Varios",Caracol Internacional
 http://138.59.177.78:9999/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@South"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Varios",E! Latin America (1080p)
+#EXTINF:-1 tvg-id="elatinamerica" tvg-name="E! Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Varios",MX - E!
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Varios",El Gourmet South (1080p)
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
