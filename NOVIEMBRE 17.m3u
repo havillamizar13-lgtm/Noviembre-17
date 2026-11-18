@@ -74,7 +74,7 @@ https://stream1.bitred.cl/ntn24/index.m3u8
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Spanish" tvg-logo="https://i.imgur.com/MfyRQCs.png" group-title="Noticias",NOW News Spanish (1080p)
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN en Espanol (1080p)
+#EXTINF:-1 tvg-id="CNNenEspa&#xF1;ol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN en Espanol (1080p)
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Noticias",Euronews Spanish (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
@@ -133,7 +133,7 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do@SD" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Cine/Series",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="MultiPremier.mx@SD" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Cine/Series",MultiPremier (1080p)
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Cine/Series",MultiPremier (1080p)
 http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine/Series",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
@@ -148,34 +148,34 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="sonychannelandes" tvg-name="Sony Channel Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",Sony Channel Andes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="cinecanalsouth" tvg-name="Cinecanal South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",Cinecanal South
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",Cinecanal South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine/Series",Cinemax Latin America (720p)
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine/Series",Cinemax Latin America (720p)
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-id="hbo2latinamericahd" tvg-name="HBO 2 Latin America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO 2 Latin America HD
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 Latin America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO 2 Latin America HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
-#EXTINF:-1 tvg-id="hbo2latinamericaalt" tvg-name="HBO 2 Latin America Alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine/Series",HBO 2 Latin America Alt
+#EXTINF:-1 tvg-id="HBO2.bo" tvg-name="HBO 2 Latin America Alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine/Series",HBO 2 Latin America Alt
 http://45.171.64.30:6060/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine/Series",HBO Family Latin America (1080p)
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine/Series",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="hbolatinamericahd" tvg-name="HBO Latin America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",HBO Latin America HD
+#EXTINF:-1 tvg-id="HBO.bo" tvg-name="HBO Latin America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",HBO Latin America HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
-#EXTINF:-1 tvg-id="hbolatinamericaalt" tvg-name="HBO Latin America Alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Latin America Alt
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO Latin America Alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Latin America Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://streaming.onnethn.com/HBO/playlist.m3u8
-#EXTINF:-1 tvg-id="hbomundilatinamerica" tvg-name="HBO Mundi Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Mundi Latin America
+#EXTINF:-1 tvg-id="HBOMUNDI.mx" tvg-name="HBO Mundi Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Mundi Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="hbosignaturelatinamerica" tvg-name="HBO Signature Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Signature Latin America
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Signature Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="hboxtremelatinamerica" tvg-name="HBO Xtreme Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Xtreme Latin America
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
-#EXTINF:-1 tvg-id="TCMLatinAmerica.us@South" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine/Series",TCM Latin America South (1080p)
+#EXTINF:-1 tvg-id="TCM.mx" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine/Series",TCM Latin America South (1080p)
 http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="spacesouth" tvg-name="Space South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",Space South
 http://45.171.64.30:6060/play/a04n/index.m3u8
@@ -191,11 +191,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="fxlatinamericasouth" tvg-name="FX Latin America South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Cine/Series" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",FX Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studio Universal Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine/Series",Studio Universal Latin America
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine/Series",Studio Universal Latin America
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine/Series",Golden (720p)
+#EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine/Series",Golden (720p)
 http://138.121.15.230:9002/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine/Series",Golden Edge (1080p)
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine/Series",Golden Edge (1080p)
 http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Cine/Series",Lifetime Latin America (1080p)
 http://138.121.15.230:9002/LIFETIME/index.m3u8
